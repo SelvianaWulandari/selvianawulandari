@@ -27,31 +27,6 @@
 
 ---
 
-### 💼 Experience Highlights
-
-- 💡 **Engineering Intern** at PT PLN (2025)  
-  Built web-app trackers, managed visual data, and supported power system data processing.
-
-- 💬 **Data Engineer** in UNITY’s Chatbot Project  
-  Processed question-answer datasets for internal projects.
-
-- 🎨 **UX Designer** in GEMASTIK XVII  
-  Created designs for ALERTA – a disaster mitigation app aligning with SDG Climate Action.
-
-- 📊 **Infographic Participant** in SATRIA DATA  
-  Analyzed and visualized statistical data for national competition.
-
----
-
-### 🎓 Training & Certifications
-
-- 🤖 **AI Training for Junior Developers** – Kominfo  
-- 📊 **Intro to Data Analysis** – RevoU  
-- 🧠 **HCIA-AI V3.5** – Huawei  
-- 🐍 **Python Programming Basics** – Huawei  
-
----
-
 ### 🌐 Let's Connect
 
 <p align="left">
