@@ -18,7 +18,13 @@
 ### 🛠️ Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,html,css,flutter,dart,github,canva,vscode,git" />
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="40" title="Python"/>
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="40" title="HTML"/>
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="40" title="CSS"/>
+  <img src="https://media.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" width="40" title="GitHub"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="40" title="Git"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0z29L/giphy.gif" width="40" title="VSCode"/>
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0z29L/giphy.gif" width="40" title="Canva"/>
 </p>
 
 - 🧠 Artificial Intelligence | Machine Learning  
