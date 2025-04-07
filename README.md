@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Selviana Wulandari</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />, I'm Selviana Wulandari</h1>
 <h3 align="center">📊 Data Enthusiast | 💡 AI & Machine Learning Explorer | 🛠️ Tech Learner</h3>
 
 <p align="center">
@@ -55,7 +55,7 @@
 ### 🌐 Let's Connect
 
 <p align="left">
-  <a href="www.linkedin.com/in/selvianawulandari" target="_blank">
+  <a href="https://www.linkedin.com/in/selviana-wulandari" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:selviwulandariana@gmail.com" target="_blank">
